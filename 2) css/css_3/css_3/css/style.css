@@ -1,0 +1,61 @@
+
+
+.example1{
+	text-indent: 50px;
+	margin: 53px 619px 50px 20px;
+	width: 611px;
+	height: 64px;
+}
+
+.example2{
+display: block;
+width: 274px;
+height: 50px;
+margin: 0px 0px 20px 0px;
+}
+
+.example3{
+width: 453px;
+height: 14px;
+display: block;
+padding: 0px 0px 0px 20px;
+margin: 0px 0px 40px 0px;
+}
+
+.example4{
+	text-indent: 50px;
+padding: 0px 0px 15px 0px;
+width: 1145px;
+height: 86px;
+}
+
+.example5{
+margin: 0px 41px 0px 0px;
+display: inline;
+width: 303px;
+height: 14px;
+padding: 0px 0px 0px 30px;
+}
+
+.example6{
+display: inline-block;
+width: 300px;
+height: 14px;
+}
+
+.example7{
+display: inline-block;
+height: 50px;
+margin: 35px 50px 0px 0px;
+padding: 0px 0px 0px 50px;
+}
+
+.example8{
+display: inline;
+}
+
+.example9{
+	display: inline-block;
+	padding: 50px 0px 0px 0px;
+}
+
