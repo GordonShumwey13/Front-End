@@ -1,0 +1,81 @@
+*{	padding: 0;margin: 0;border: 0;}
+*,*:before,*:after{moz box-sizing: border-box;webkit box-sizing: border-box;box-sizing: border-box;}:focus,:active{outline: none;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height: 100%;width: 100%;font size: 100%;line-height: 1;font-size: 14px;-ms-text-size-adjust: 100%;-moz-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;}
+input,button,textarea{font-family: inherit;}
+input: -ms-clear{display: none;}
+button{cursor: pointer;}
+button:-moz-focus-inner{padding: 0;border: 0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
+
+body{
+	background-color: #E6E6FA;
+	background: url('../img/bp.jpg') 0 0/100% auto repeat;
+}
+
+.content {
+	border-radius: 20px;
+	background-color: #E6E6FA;
+	-webkit-box-shadow: 1px 2px 23px 9px rgba(255,232,194,0.88); 
+box-shadow: 1px 2px 23px 9px rgba(255,232,194,0.88);
+	font-family: URW Chancery L, cursive;
+	color: #4C514A;
+	font-size: 20px;
+	width: 1500px;
+	height: 1400px;
+	margin: 20px auto;
+	padding: 50px;
+	position: relative;
+}
+
+.title {
+	font-family: 'Bad Script', cursive;
+	font-weight: 800;
+	text-shadow: 7px 0px 5px rgba(128, 128, 128, 0.91);
+	text-align: center;
+	font-size: 50px;
+	margin: -15px 0 20px 0;
+}
+.title:first-letter{
+	font-weight: 800;
+}
+
+.text___1 {
+	width: 550px;
+	position: absolute;
+	top: 120px;
+	left: 50px;
+
+
+}
+.image__1 {
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;gba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+	width: 823px;
+	background-color: #F8F4FF	;
+	padding: 10px;
+	position: absolute;
+	top: 120px;
+	right: 50px;
+}
+
+.text__2 {
+	width: 550px;
+	position: absolute;
+	bottom: 70px;
+	right: 50px;
+}
+.image__2 {
+	background-color: #F8F4FF	;
+	padding: 10px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;gba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+	position: absolute;
+	bottom: 100px;
+	left: 50px;
+}
+
